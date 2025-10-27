@@ -1,0 +1,192 @@
+#EXTM3U x-tvg-url="http://localhost/xmltv/epg.xml"
+
+#PLAYLIST:PIA
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 AMERICAN DAD" tvg-logo="https://logo.m3uassets.com/247americandada.png" group-title="24/7 STREAMS",24/7 AMERICAN DAD
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/40168.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 FUTURAMA S01" tvg-logo="https://logo.m3uassets.com/247futurama.png" group-title="24/7 STREAMS",24/7 FUTURAMA S01
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/800000070.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 FUTURAMA S02" tvg-logo="https://logo.m3uassets.com/247futurama.png" group-title="24/7 STREAMS",24/7 FUTURAMA S02
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/800000071.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 FUTURAMA S03" tvg-logo="https://logo.m3uassets.com/247futurama.png" group-title="24/7 STREAMS",24/7 FUTURAMA S03
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/800000072.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 FUTURAMA S07" tvg-logo="https://logo.m3uassets.com/247futurama.png" group-title="24/7 STREAMS",24/7 FUTURAMA S07
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/800000076.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" 24/7 DATELINE" tvg-logo="https://imgs.search.brave.com/ojtMo5TcdFy0-60LjwtukmwjR4XQriptw945v3jNBiI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk56QXhPV00w/WTJZdFkyUTBZUzAw/WXprd0xUa3pPRGN0/TTJFM09HRXlZalUw/TlRSbVhrRXlYa0Zx/Y0djQC5qcGc" group-title="24/7 STREAMS", 24/7 DATELINE
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/600014383.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="ADULT SWIM (EAST)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s92160_dark_360w_270h.png" group-title="ADULT SWIM (CARTOONS)",ADULT SWIM (EAST)
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/77938.ts
+#EXTINF:-1 tvg-id="CartoonNetwork(Pacific).us" tvg-name="ADULT SWIM (PACIFIC)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s92160_dark_360w_270h.png" group-title="ADULT SWIM (CARTOONS)",ADULT SWIM (PACIFIC)
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/77939.ts
+#EXTINF:-1 tvg-id="AdultSwim(English).ca" tvg-name="ADULT SWIM HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s92160_dark_360w_270h.png" group-title="ADULT SWIM (CARTOONS)",ADULT SWIM HD
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/54595.ts
+#EXTINF:-1 tvg-id="AdultSwim(English).ca" tvg-name="ADULT SWIM HD (PACIFIC)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s92160_dark_360w_270h.png" group-title="ADULT SWIM (CARTOONS)",ADULT SWIM HD (PACIFIC)
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/600002487.ts
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="MOVIES",HBO
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163558.ts
+#EXTINF:-1 tvg-id="HBO(Pacific).us" tvg-name="HBO (PACIFIC)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="MOVIES",HBO (PACIFIC)
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/5874.ts
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO COMEDY HD" tvg-logo="https://logo.m3uassets.com/hbocomedy.png" group-title="MOVIES",HBO COMEDY HD
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163560.ts
+#EXTINF:-1 tvg-id="HDNetMovies.us" tvg-name="HDNET MOVIES" tvg-logo="https://logo.m3uassets.com/hdnetmovies.png" group-title="MOVIES",HDNET MOVIES
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200166102.ts
+#EXTINF:-1 tvg-id="MGMplus.us" tvg-name="MGM+ HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65687_dark_360w_270h.png" group-title="MOVIES",MGM+ HD
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163555.ts
+#EXTINF:-1 tvg-id="MGMplusHits.us" tvg-name="MGM+ HITS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67929_dark_360w_270h.png" group-title="MOVIES",MGM+ HITS
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163557.ts
+#EXTINF:-1 tvg-id="MGMplusMarquee.us" tvg-name="MGM+ MARQUEE HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74073_dark_360w_270h.png" group-title="MOVIES",MGM+ MARQUEE HD
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163554.ts
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://logo.m3uassets.com/paramountnetwork.png" group-title="MOVIES",PARAMOUNT NETWORK
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/500014839.ts
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="SHO 2" tvg-logo="https://logo.m3uassets.com/showtime2.png" group-title="MOVIES",SHO 2
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163567.ts
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="SHOWTIME EXTREME" tvg-logo="https://logo.m3uassets.com/showtimeextreme.png" group-title="MOVIES",SHOWTIME EXTREME
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163569.ts
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="SONY MOVIE CHANNEL HD" tvg-logo="https://logo.m3uassets.com/sonymovies.png" group-title="MOVIES",SONY MOVIE CHANNEL HD
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/5850.ts
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="STARZ" tvg-logo="https://logo.m3uassets.com/starz.png" group-title="MOVIES",STARZ
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/14185.ts
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="STARZ COMEDY" tvg-logo="https://logo.m3uassets.com/starzcomedy.png" group-title="MOVIES",STARZ COMEDY
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163582.ts
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="STARZ ENCORE" tvg-logo="https://logo.m3uassets.com/starzencore.png" group-title="MOVIES",STARZ ENCORE
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163583.ts
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="STARZ ENCORE ACTION" tvg-logo="https://logo.m3uassets.com/starzencoreaction.png" group-title="MOVIES",STARZ ENCORE ACTION
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163575.ts
+#EXTINF:-1 tvg-id="StarzKids.us" tvg-name="STARZ KIDS" tvg-logo="https://logo.m3uassets.com/starzkidsfamily.png" group-title="MOVIES",STARZ KIDS
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163580.ts
+#EXTINF:-1 tvg-id="BeINSPORTS1.fr" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://logo.m3uassets.com/beinsports1.png" group-title="SPORTS",BEIN SPORTS 1 HD
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/600003209.ts
+#EXTINF:-1 tvg-id="BeINSPORTS2.fr" tvg-name="BEIN SPORTS 2" tvg-logo="https://logo.m3uassets.com/beinsports2.png" group-title="SPORTS",BEIN SPORTS 2
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/600003210.ts
+#EXTINF:-1 tvg-id="BeINSPORTS3.fr" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://logo.m3uassets.com/beinsports3.png" group-title="SPORTS",BEIN SPORTS 3 HD
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/600003211.ts
+#EXTINF:-1 tvg-id="beINSports(English).ca" tvg-name="BEIN SPORTS HD (CANADA)" tvg-logo="https://logo.m3uassets.com/beinsports.png" group-title="SPORTS",BEIN SPORTS HD (CANADA)
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/33081.ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://logo.m3uassets.com/espn.png" group-title="SPORTS",ESPN
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163456.ts
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="FOX SOCCER PLUS HD" tvg-logo="https://logo.m3uassets.com/foxsoccerplus.png" group-title="SPORTS",FOX SOCCER PLUS HD
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/500002314.ts
+#EXTINF:-1 tvg-id="FS1.us" tvg-name="FS1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="SPORTS",FS1
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/500000756.ts
+#EXTINF:-1 tvg-id="FS2(Spanish).us" tvg-name="FS2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="SPORTS",FS2
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/500000757.ts
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="PREMIER SPORTS 1 HD" tvg-logo="https://logo.m3uassets.com/premiersports1.png" group-title="SPORTS",PREMIER SPORTS 1 HD
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/500001097.ts
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="PREMIER SPORTS 2 HD" tvg-logo="https://logo.m3uassets.com/premiersports2.png" group-title="SPORTS",PREMIER SPORTS 2 HD
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200159720.ts
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="USA PREMIUM",A&E
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200151194.ts
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="AHC" tvg-logo="https://logo.m3uassets.com/americanheroeschannel.png" group-title="USA PREMIUM",AHC
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200151204.ts
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="AHC" tvg-logo="https://logo.m3uassets.com/americanheroeschannel.png" group-title="USA PREMIUM",AHC
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/600001489.ts
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://logo.m3uassets.com/amc.png" group-title="USA PREMIUM",AMC
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163489.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="ANIMAL PLANET HD" tvg-logo="https://logo.m3uassets.com/animalplanet.png" group-title="USA PREMIUM",ANIMAL PLANET HD
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163510.ts
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="https://logo.m3uassets.com/bet.png" group-title="USA PREMIUM",BET
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163491.ts
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="BOOMERANG" tvg-logo="https://logo.m3uassets.com/boomerang.png" group-title="USA PREMIUM",BOOMERANG
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200151218.ts
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="BRAVO" tvg-logo="https://logo.m3uassets.com/bravo.png" group-title="USA PREMIUM",BRAVO
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200170610.ts
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="BRAVO" tvg-logo="https://logo.m3uassets.com/bravo.png" group-title="USA PREMIUM",BRAVO
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163516.ts
+#EXTINF:-1 tvg-id="Bravo(English).ca" tvg-name="BRAVO CANADA HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17610_dark_360w_270h.png" group-title="USA PREMIUM",BRAVO CANADA HD
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/54612.ts
+#EXTINF:-1 tvg-id="Bravo(English).ca" tvg-name="BRAVO CANADA HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17610_dark_360w_270h.png" group-title="USA PREMIUM",BRAVO CANADA HD
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/8104.ts
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY CENTRAL" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="USA PREMIUM",COMEDY CENTRAL
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163493.ts
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="DESTINATION AMERICA" tvg-logo="https://logo.m3uassets.com/destinationamerica.png" group-title="USA PREMIUM",DESTINATION AMERICA
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200151260.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="USA PREMIUM",DISCOVERY CHANNEL
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163511.ts
+#EXTINF:-1 tvg-id="EEntertainmentTelevision(English).ca" tvg-name="E! ENTERTAINMENT HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76792_dark_360w_270h.png" group-title="USA PREMIUM",E! ENTERTAINMENT HD
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/600002458.ts
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="FOOD NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="USA PREMIUM",FOOD NETWORK
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163519.ts
+#EXTINF:-1 tvg-id="FX(East)(src01).us" tvg-name="FX (EAST)" tvg-logo="https://logo.m3uassets.com/fx.png" group-title="USA PREMIUM",FX (EAST)
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163495.ts
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66379_dark_360w_270h.png" group-title="USA PREMIUM",FXX
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163496.ts
+#EXTINF:-1 tvg-id="GameShowCentral.us" tvg-name="GAME SHOW CENTRAL" tvg-logo="https://logo.m3uassets.com/gameshowcentral.png" group-title="USA PREMIUM",GAME SHOW CENTRAL
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200231501.ts
+#EXTINF:-1 tvg-id="GameShowCentral.us" tvg-name="GAME SHOW CENTRAL" tvg-logo="https://logo.m3uassets.com/gameshowcentral.png" group-title="USA PREMIUM",GAME SHOW CENTRAL
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/112694.ts
+#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="GAME SHOW NETWORK" tvg-logo="https://logo.m3uassets.com/gameshownetwork.png" group-title="USA PREMIUM",GAME SHOW NETWORK
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200151315.ts
+#EXTINF:-1 tvg-id="GameShowNetwork(English).ca" tvg-name="GAME SHOW NETWORK HD" tvg-logo="https://logo.m3uassets.com/gameshownetwork.png" group-title="USA PREMIUM",GAME SHOW NETWORK HD
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200158328.ts
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://logo.m3uassets.com/hgtv.png" group-title="USA PREMIUM",HGTV
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200151328.ts
+#EXTINF:-1 tvg-id="HISTORY2(English).ca" tvg-name="HISTORY 2" tvg-logo="https://logo.m3uassets.com/history2.png" group-title="USA PREMIUM",HISTORY 2
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200158337.ts
+#EXTINF:-1 tvg-id="History.us" tvg-name="HISTORY CHANNEL 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14771_dark_360w_270h.png" group-title="USA PREMIUM",HISTORY CHANNEL 1
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/400124844.ts
+#EXTINF:-1 tvg-id="History(English).ca" tvg-name="HISTORY CHANNEL 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17593_dark_360w_270h.png" group-title="USA PREMIUM",HISTORY CHANNEL 1
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200151329.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery(English).ca" tvg-name="ID CANADA 1" tvg-logo="https://logo.m3uassets.com/investigationdiscovery.png" group-title="USA PREMIUM",ID CANADA 1
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/500009319.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID US1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="USA PREMIUM",ID US1
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/22700.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID US1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="USA PREMIUM",ID US1
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200165515.ts
+#EXTINF:-1 tvg-id="InvestigationDiscoveryPanRegional.us" tvg-name="ID US2" tvg-logo="https://imgs.search.brave.com/13BkRExLqydNx1eiydzDsGvO0_Yv_a6YNGZm_Og3DXc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2Q1L0lkbG9nbzIw/MTYucG5n" group-title="USA PREMIUM",ID US2
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/119991.ts
+#EXTINF:-1 tvg-id="InvestigationDiscoveryPanRegional.us" tvg-name="ID US2" tvg-logo="https://imgs.search.brave.com/13BkRExLqydNx1eiydzDsGvO0_Yv_a6YNGZm_Og3DXc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2Q1L0lkbG9nbzIw/MTYucG5n" group-title="USA PREMIUM",ID US2
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/22701.ts
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="USA PREMIUM",MTV
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163500.ts
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV CLASSIC" tvg-logo="https://logo.m3uassets.com/mtvclassic.png" group-title="USA PREMIUM",MTV CLASSIC
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200162375.ts
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2: MUSIC TELEVISION" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16361_dark_360w_270h.png" group-title="USA PREMIUM",MTV2: MUSIC TELEVISION
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/600002334.ts
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://logo.m3uassets.com/nationalgeographic.png" group-title="USA PREMIUM",NATIONAL GEOGRAPHIC HD
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163508.ts
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="NICKELODEON" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="USA PREMIUM",NICKELODEON
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163488.ts
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NICKTOONS" tvg-logo="https://logo.m3uassets.com/nicktoons.png" group-title="USA PREMIUM",NICKTOONS
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200151376.ts
+#EXTINF:-1 tvg-id="OxygenTrueCrime(English).ca" tvg-name="OXYGEN TRUE CRIME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21484_dark_360w_270h.png" group-title="USA PREMIUM",OXYGEN TRUE CRIME
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/22745.ts
+#EXTINF:-1 tvg-id="OxygenTrueCrime(English).ca" tvg-name="OXYGEN TRUE CRIME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21484_dark_360w_270h.png" group-title="USA PREMIUM",OXYGEN TRUE CRIME
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200166113.ts
+#EXTINF:-1 tvg-id="OxygenTrueCrimeStream.us" tvg-name="OXYGEN TRUE CRIME ARCHIVES" tvg-logo="https://images.pluto.tv/channels/654930a8346f420008d3b0b8/colorLogoPNG.png" group-title="USA PREMIUM",OXYGEN TRUE CRIME ARCHIVES
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/700000961.ts
+#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="OXYGEN TRUE CRIME HD" tvg-logo="https://logo.m3uassets.com/oxygen.png" group-title="USA PREMIUM",OXYGEN TRUE CRIME HD
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/22746.ts
+#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="OXYGEN TRUE CRIME HD" tvg-logo="https://logo.m3uassets.com/oxygen.png" group-title="USA PREMIUM",OXYGEN TRUE CRIME HD
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163524.ts
+#EXTINF:-1 tvg-id="RealityTVShores.us" tvg-name="REALITY TV: SHORES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121826_dark_360w_270h.png" group-title="USA PREMIUM",REALITY TV: SHORES
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/700000997.ts
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="REELZ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68385_dark_360w_270h.png" group-title="USA PREMIUM",REELZ
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200151388.ts
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="REELZ (PEACOCK)" tvg-logo="https://imgs.search.brave.com/E86iAj1ieAoaQBFbn0siRgRvPG18rRiuFt2c7I8ax_4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zMTM2/ODYucGNkbi5jby93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMy8w/My9SRUVMWk5vd1N0/cmVhbWluZ29uUGVh/Y29jay5wbmc" group-title="USA PREMIUM",REELZ (PEACOCK)
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/600014394.ts
+#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="https://logo.m3uassets.com/syfy.png" group-title="USA PREMIUM",SYFY
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163513.ts
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://logo.m3uassets.com/tbs.png" group-title="USA PREMIUM",TBS
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200151428.ts
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="USA PREMIUM",TLC
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200158380.ts
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="USA PREMIUM",TLC
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163526.ts
+#EXTINF:-1 tvg-chno="5" tvg-id="TLC.us" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="USA PREMIUM",TLC
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/400124819.ts
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://logo.m3uassets.com/tnt.png" group-title="USA PREMIUM",TNT
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163455.ts
+#EXTINF:-1 tvg-id="TrueHistory.us" tvg-name="TRUE HISTORY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122536_dark_360w_270h.png" group-title="USA PREMIUM",TRUE HISTORY
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/700001133.ts
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TV LAND" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_dark_360w_270h.png" group-title="USA PREMIUM",TV LAND
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163515.ts
+#EXTINF:-1 tvg-id="TVONE.us" tvg-name="TV ONE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s35513_dark_360w_270h.png" group-title="USA PREMIUM",TV ONE
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200151441.ts
+#EXTINF:-1 tvg-id="Unexplained.us" tvg-name="UNEXPLAINED" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s128143_dark_360w_270h.png" group-title="USA PREMIUM",UNEXPLAINED
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/700001150.ts
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72638_dark_360w_270h.png" group-title="USA PREMIUM",USA NETWORK
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163506.ts
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="https://logo.m3uassets.com/vh1.png" group-title="USA PREMIUM",VH1
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/600001125.ts
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="https://logo.m3uassets.com/vh1.png" group-title="USA PREMIUM",VH1
+https://pia.cx:443/live/ZyGSyJhm/shxMGe7Q/200163501.ts
